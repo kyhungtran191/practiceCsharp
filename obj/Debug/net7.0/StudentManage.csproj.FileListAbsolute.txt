@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\bin\Debug\net7.0\StudentManage.exe
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\bin\Debug\net7.0\StudentManage.deps.json
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\bin\Debug\net7.0\StudentManage.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\bin\Debug\net7.0\StudentManage.dll
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\bin\Debug\net7.0\StudentManage.pdb
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.dll
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\refint\StudentManage.dll
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.pdb
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\StudentManage.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\WebASPNETCore\Syntax\StudentManage\obj\Debug\net7.0\ref\StudentManage.dll
